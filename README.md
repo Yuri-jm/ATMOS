@@ -9,7 +9,7 @@ O sistema permite que usuários autenticados pesquisem cidades, visualizem infor
 ## Acesso ao Projeto
 
 -  CodeSandbox:  
-  https://4qggmz-5173.csb.app](https://codesandbox.io/p/devbox/elated-curie-4gqgmz
+https://codesandbox.io/p/devbox/elated-curie-4gqgmz
 
 -  Repositório GitHub:  
   https://github.com/Yuri-jm/ATMOS
